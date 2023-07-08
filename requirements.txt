@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.2
+greenlet==2.0.2
+playwright==1.35.0
+pyee==9.0.4
+python-dotenv==1.0.0
+soupsieve==2.4.1
+typing_extensions==4.7.1
